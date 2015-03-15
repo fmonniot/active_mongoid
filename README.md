@@ -192,7 +192,7 @@ end
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-[build_status]: https://travis-ci.org/sportngin/active_mongoid
-[build_status_image]: https://travis-ci.org/sportngin/active_mongoid.svg?branch=master
-[coverage_status]: https://coveralls.io/r/sportngin/active_mongoid
-[coverage_status_image]: https://img.shields.io/coveralls/sportngin/active_mongoid.svg
+[build_status]: https://travis-ci.org/fmonniot/active_mongoid
+[build_status_image]: https://travis-ci.org/fmonniot/active_mongoid.svg?branch=master
+[coverage_status]: https://coveralls.io/r/fmonniot/active_mongoid
+[coverage_status_image]: https://img.shields.io/coveralls/fmonniot/active_mongoid.svg
